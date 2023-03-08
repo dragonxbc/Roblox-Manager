@@ -1,0 +1,18 @@
+{
+    "CLIENT": {
+        "APPLICATION_ID": "",
+        "GUILD_ID": ""
+    },
+     
+    "GAME": {
+        "DATASTORE_NAME": "",
+        "UNIVERSE_IDS": { 
+            "": "",
+            "": ""
+        },
+        "BAN_REASON": "You have been banned permanently. If you think this was a mistake please contact a moderator to appeal.",
+        "UNBAN_REASON": "The user has been unbanned",
+        "KICK_REASON": "You have been kicked from the server."
+    }
+}
+
